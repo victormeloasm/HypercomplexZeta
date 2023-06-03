@@ -54,6 +54,6 @@ In this example, the program calculates the value of the Riemann's Zeta function
 ## Contribution
 
 Contributions are welcome! If you find any issues or want to enhance the functionality of the code, feel free to create a pull request.
-```
 
-Feel free to modify and customize this README.md template as needed.
+
+<b>Feel free to modify and customize this README.md template as needed.</b>
