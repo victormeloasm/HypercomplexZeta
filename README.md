@@ -1,4 +1,4 @@
-```markdown
+
 # Riemann's Zeta function for Quaternions (Hypercomplex)
 
 This is a pure C program that calculates the Riemann's Zeta function for Quaternions, a type of Hypercomplex numbers. The code is implemented without using any external libraries, providing a self-contained solution for computing the Quaternion Zeta function.
