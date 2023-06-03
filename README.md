@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README.md file that emphasizes the fact that the code is written in pure C without using any libraries:
-
 ```markdown
 # Riemann's Zeta function for Quaternions (Hypercomplex)
 
